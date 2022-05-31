@@ -1,0 +1,505 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>Good Computing Reports for Computer Ethics</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>ac299ef2-9a34-4385-a694-13b797e1b8a5</md:uuid>
+</metadata>
+	<content>
+		<para id="id5828088">Good Computing Reports (From Charles Huff,
+"Practical Guidance for Teaching the Social Impact Statement (SIS).
+From Proceedings of the 1996 Symposium on Computers and the Quality
+of Life, pp. 86-89. New York, ACM Press.)</para>
+		<para id="id6002082">Key Links</para>
+		<para id="id6002106">1. Materials from Magic Copy Center: Good
+Computing: A Virtue Ethics Approach to Computer Ethics, Chapter
+Two, Huff/Frey</para>
+		<para id="id6002183">2. 
+<link url="http://www.computingcases.org/">
+www.computingcases.org</link></para>
+		<para id="id6096466">Goals:</para>
+		<para id="id6096498">1. To uncover ethical surprises in major
+design projects. (These are ethical issues—potential ethical
+problems—that are embedded in the design project.)</para>
+		<para id="id6096548">2. To communicate effectively to the client
+the importance of considering ethical issues and problems
+associated with design projects upstream in the design process.
+(This means raising ethical problems from the beginning of the
+design process and continuously throughout the design process. This
+is opposed to the idea of waiting until the design process is
+finished to raise ethical issues.)</para>
+		<para id="id5971659">Four Presuppositions</para>
+		<para id="id5971684">1. Socio-technical systems and their
+components (hardware, software, physical surroundings,
+people/groups/roles, procedures, laws, data/data structures) embody
+values.</para>
+		<para id="id5971712">2. Computing technologies (CTs) are always
+embedded in socio-technical systems.</para>
+		<para id="id5971739">3. CTs instrument (magnify or augment) human
+action.</para>
+		<para id="id5971787">4. There is a close analogy between solving
+ethical and design problems:</para>
+		<para id="element-706">The table below provides a summary of this analogy that helps to introduce the Software Development Cycle.  For a more complete account of this analogy see Carolyn Whitbeck:  http://onlineethics.org/essays/education/teaching.html (This link is attached above in this module.)</para><table id="id5971815" summary="">
+			<tgroup cols="2">
+				<colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<tbody>
+					<row>
+						<entry namest="c1" nameend="c2">Analogy between ethical and design
+problems</entry>
+					</row>
+					<row>
+						<entry>Design Problem</entry>
+						<entry>Ethical Problem</entry>
+					</row>
+					<row>
+						<entry>Construct a prototype that optimizes (or satisfices)
+designated specifications</entry>
+						<entry>Construct a solution that realizes ethical values such as
+justice, responsibility, reasonableness, respect, and
+safety)</entry>
+					</row>
+					<row>
+						<entry>Conflicts between specifications are resolved through
+integration</entry>
+						<entry>Attempt to resolve conflicts between values (moral vs.
+moral, moral vs. non-moral) by integration</entry>
+					</row>
+					<row>
+						<entry>Designed products or services must be implemented over
+background constraints</entry>
+						<entry>Ethical solutions must be implemented over resource,
+interest, and technical constraints.</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<para id="id6106693">Normative Methodology:</para>
+		<para id="id6106718">The Software Development Cycle (SDC) arises
+out of the analogy between design and problem solving in ethics.
+The core sections of Good Computing Reports are based on its four
+stages of problem specification, solution generation, solution
+testing, and solution implementation.</para>
+		<para id="id6106746">Problem specification: This stage requires
+specifying the socio-technical system that influences the software
+in question, recognizing the values embodied in the system, and
+uncovering the conflicts between these values, for example, between
+efficiency and safety.</para>
+		<para id="id6106832">Solution generation: This stage requires
+resolving value conflicts by changing the design or requirements,
+or by recommending change to other aspects of the socio-technical
+system. Brainstorming forms an essential part of this stage.</para>
+		<para id="id6245262">Solution Testing: The solutions developed in
+the second stage must be tested in terms of ethics tests
+(reversibility, harm/beneficence, and public identification) and a
+code test.</para>
+		<para id="id6106542">Solution implementation: The chosen solution
+must be examined in terms of how well it responds to various
+situational constraints that could impede its implementation. What
+will be its costs? Can it be implemented within necessary time
+constraints? Does it honor recognized technical limitations or does
+it require pushing these back through innovation and discovery?
+Does it comply with legal and regulatory requirements? Finally, how
+does it respond to the general social and political conditions
+surrounding implementation?</para>
+		<para id="id5129063">Empirical Methodology:</para>
+		<para id="id5916485">This stage employs various methods for
+collecting and reviewing data including (1) constructing
+questionnaires and surveys, (2) holding open and structured
+interviews with clients and stakeholders, (3) employing methods of
+participatory observation including on-site visits and
+day-in-the-life scenarios, and (4) conducting archival research
+that includes online searches and reading operating manuals.</para>
+		<para id="id6097342">Basic Format of the Report: This report has
+nine sections that include the following: (a) executive summary,
+(b) problem specification, (c) solution generation, (d) solution
+testing, (e) solution implementation, (f) documenting ethical data
+collection, (g) readers guide, (h) methodological appendix, (i)
+group self-evaluation. These stages are set forth in the following
+description that includes tables and matrices.</para>
+		<para id="id5914479">1. Executive Summary (From Huff, “Practical
+Guidance):</para>
+		<para id="id5940431">One or two page summary of the report that
+includes (1) description of the report and of the system, (2)
+discussion of the significant issues discovered, (3) list of the
+top recommendations highlighted on the page (keyed to page numbers
+in the longer report). The idea is to provide a summary that an
+executive can read in 5 to 10 minutes to get the basic information
+about the report.</para>
+		<para id="id6242972">2. SDC: Problem Specification</para>
+		<para id="id5892458">2a. Identify the values embedded in the system
+and the STS component in which they are specifically located. Use
+this table and then add a detailed written explanation.</para>
+		<table id="id6248710" summary="">
+			<tgroup cols="8">
+				<colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<colspec colnum="3" colname="c3"/>
+				<colspec colnum="4" colname="c4"/>
+				<colspec colnum="5" colname="c5"/>
+				<colspec colnum="6" colname="c6"/>
+				<colspec colnum="7" colname="c7"/>
+				<colspec colnum="8" colname="c8"/>
+				<tbody>
+					<row>
+						<entry>Component/ Value</entry>
+						<entry>Hardware</entry>
+						<entry>Software</entry>
+						<entry>Physical Surroundings</entry>
+						<entry>People, Groups, &amp; Roles</entry>
+						<entry>Procedures</entry>
+						<entry>Laws &amp; Regulations</entry>
+						<entry>Data/Data Structures</entry>
+					</row>
+					<row>
+						<entry>Safety (Respons-ibility)</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry>Property (Respect)</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry>Privacy (Respect)</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry>Free Speech (Respect)</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry>Equity &amp; Access (Justice)</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<para id="id5932767">2b. Specify the problem using the following
+problem classification matrix. More information can be found at 
+<link url="http://www.computingcases.org/">
+www.computingcases.org</link>or in Good Computing: A Virtue
+Approach to Computer Ethics.</para>
+		<table id="id6017453" summary="">
+			<tgroup cols="5">
+				<colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<colspec colnum="3" colname="c3"/>
+				<colspec colnum="4" colname="c4"/>
+				<colspec colnum="5" colname="c5"/>
+				<tbody>
+					<row>
+						<entry>Problem Type</entry>
+						<entry>Sub-Type</entry>
+						<entry namest="c3" nameend="c5">Solution Outline</entry>
+					</row>
+					<row>
+						<entry>Disagreement</entry>
+						<entrytbl namest="c2" nameend="c5" cols="2">
+							<colspec colnum="1" colname="c1"/>
+							<colspec colnum="2" colname="c2"/>
+							<tbody>
+								<row>
+									<entry>Factual</entry>
+									<entry>Type and mode of gathering information (Archival Research,
+Interview, Participatory Observation, Survey)</entry>
+								</row>
+								<row>
+									<entry>Conceptual</entry>
+									<entry>Concept in dispute and method for agreeing on its
+definition</entry>
+								</row>
+							</tbody>
+						</entrytbl>
+					</row>
+					<row>
+						<entry>Conflict</entry>
+						<entrytbl cols="1">
+							<colspec colnum="1" colname="c1"/>
+							<tbody>
+								<row>
+									<entry>Moral vs. Moral</entry>
+								</row>
+								<row>
+									<entry>Non-moral vs. moral</entry>
+								</row>
+								<row>
+									<entry>Non-moral vs. non-moral</entry>
+								</row>
+							</tbody>
+						</entrytbl>
+						<entry>Value Integrative</entry>
+						<entry>Partially Value Integrative</entry>
+						<entry>Trade Off</entry>
+					</row>
+					<row>
+						<entry>Framing</entry>
+						<entrytbl cols="1">
+							<colspec colnum="1" colname="c1"/>
+							<tbody>
+								<row>
+									<entry>Corruption</entry>
+								</row>
+								<row>
+									<entry>Social Justice</entry>
+								</row>
+								<row>
+									<entry>Value Realization</entry>
+								</row>
+							</tbody>
+						</entrytbl>
+						<entry>Strategy for maintaining integrity</entry>
+						<entry>Strategy for restoring justice</entry>
+						<entry>Value integrative, design strategy</entry>
+					</row>
+					<row>
+						<entry>Intermediate Moral Value</entry>
+						<entry>Safety, Property, Privacy, Free Speech, Equity &amp;
+Access</entry>
+						<entry>Realizing Value</entry>
+						<entry>Removing value conflicts</entry>
+						<entry>Prioritizing values for trade offs</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<para id="id5596507">2c. The problem classification matrix must
+also be accompanied by a verbal explanation of your problem
+classification.</para>
+		<para id="id5596516">2d. Be sure that you problem description
+corresponds with the elements of the above matrix.</para>
+		<para id="id5596525">2e. Be sure that you have shown that the
+solution you eventually propose responds to the components of the
+problem you have specified.</para>
+		<para id="id5596541">3. SDC: Solution Generation</para>
+		<para id="id5596556">Brainstorm solutions to the problem specified
+above: (a) describe the brainstorming methodology you employed, (b)
+include the preliminary brainstorming list and provide at least ten
+(10) solutions, (c) follow with the refined list, (d) explain the
+process used to refine solutions, and (e) briefly describe how the
+solutions on the refined list respond to the components identified
+in the problem specification stage.</para>
+		<para id="id5596580">4. SDC: Solution Evaluation</para>
+		<para id="id5596591">Do a comparative evaluation of the solutions
+you designed in the previous stage. Structure your evaluation
+around the following matrix: (More information can be found at 
+<link url="http://www.computingcases.org/">
+www.computingcases.org</link>or in Good Computing: A Virtue
+Approach to Computer Ethics.)</para>
+		<table id="id5596629" summary="">
+			<tgroup cols="6">
+				<colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<colspec colnum="3" colname="c3"/>
+				<colspec colnum="4" colname="c4"/>
+				<colspec colnum="5" colname="c5"/>
+				<colspec colnum="6" colname="c6"/>
+				<tbody>
+					<row>
+						<entry>Solution/Test</entry>
+						<entry>Reversibility or Rights</entry>
+						<entry>Harms/Beneficence or Net Utility</entry>
+						<entry>Value</entry>
+						<entry>Code</entry>
+						<entry>Global Feasibility</entry>
+					</row>
+					<row>
+						<entry>Description</entry>
+						<entry>Reversible with stakeholders? Honors basic rights?</entry>
+						<entry>Produces the best benefit/harm ratio or maximizes
+utility?</entry>
+						<entry>Moral values: realized or frustrated? Value conflicts
+resolved or exacerbated?</entry>
+						<entry>Does the recommendation violate code provisions?</entry>
+						<entry>What the resource, technical, or interest constraints could
+impede implementation?</entry>
+					</row>
+					<row>
+						<entry>Best recommendation</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry>Second Best recommendation</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry>Status Quo</entry>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+						<entry/>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<para id="id6105535">4a. Accompany this matrix with an in-depth
+verbal comparison of these alternatives. Recapitulate how each
+alternative stands with each test. Then provide a justification for
+each recommendation.</para>
+		<para id="id6105553">5. SDC: Solution Implementation</para>
+		<para id="id6105565">Fill out a Feasibility Matrix. Then discuss
+the obstacles that could impede the implementation of your solution
+and how you plan to overcome them. You may want to formulate and
+have ready a Plan B in case these obstacles prove insurmountable.
+(More information can be found at 
+<link url="http://www.computingcases.org/">
+www.computingcases.org</link>or in Good Computing: A Virtue
+Approach to Computer Ethics.)</para>
+		<table id="id6105606" summary="">
+			<tgroup cols="9">
+				<colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<colspec colnum="3" colname="c3"/>
+				<colspec colnum="4" colname="c4"/>
+				<colspec colnum="5" colname="c5"/>
+				<colspec colnum="6" colname="c6"/>
+				<colspec colnum="7" colname="c7"/>
+				<colspec colnum="8" colname="c8"/>
+				<colspec colnum="9" colname="c9"/>
+				<tbody>
+					<row>
+						<entry namest="c1" nameend="c9">Feasibility Matrix</entry>
+					</row>
+					<row>
+						<entry namest="c1" nameend="c3">Resource Constraints</entry>
+						<entry namest="c4" nameend="c5">Technical Constraints</entry>
+						<entry namest="c6" nameend="c9">Interest Constraints</entry>
+					</row>
+					<row>
+						<entry>Time</entry>
+						<entry>Cost</entry>
+						<entry>Available materials, labor, etc</entry>
+						<entry>Applicable technology</entry>
+						<entry>Manufactur-ability</entry>
+						<entry>Per-son-alities</entry>
+						<entry>Organiza-tional</entry>
+						<entry>Legal</entry>
+						<entry>Social, Political, Cultural</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+		<para id="id6019144">6. Discuss measures taken to avoid ethical
+problems that could arise in carrying out a Good Computing
+analysis. Use the following table to help identify the pertinent
+topics</para>
+		<table id="element-446" summary="">
+			<tgroup cols="3"><tbody>
+					<row>
+						<entry>Collection</entry>
+						<entry>Analysis</entry>
+						<entry>Reporting</entry>
+					</row>
+					<row>
+						<entry>Establish a client-professional relationship</entry>
+						<entry>All information, claims, and solutions need to be tested, triangulated, and validated</entry>
+						<entry>Intelligibility: check for coherence between problems and recommendation; prepare a clear executive summary; document and attribute; discuss and justify methodology</entry>
+					</row>
+					<row>
+						<entry>Get client consent</entry>
+						<entry>Avoid misconduct.  Three sins of academic integrity are plagiarism, falsification, and fabrication</entry>
+						<entry>Comprehensiveness: (a) scope out topic carefully; (b) avoid extremes of covering too much and too little; (c) be open about limits and boundaries of investigation</entry>
+					</row>
+					<row>
+						<entry>Respect: listen to client, dress professionally, thank interviewee/client for time</entry>
+						<entry>Minimize bias and avoid loaded and complex questions</entry>
+						<entry>Objectivity and Impartiality: Be sure to report each stakeholder perspective</entry>
+					</row>
+					<row>
+						<entry>Confidentiality: (a) explain how you are going to use information; (b) design measures to prevent unauthorized access; (c) destroy raw data after it has been analyzed</entry>
+						<entry>Triangulate, that is, use different methods to collect the same data to overcome limits and biases associated with each data collection method</entry>
+						<entry>Deliver bad news proactively by minimizing blame language, presenting solutions, and by providing clear and comprehensive justifications of recommentations</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table><para id="element-365">7. A Reader's Guide: An annotated bibilography of materials that could provide the client with the detailed background to the Social Impact Analysis </para><para id="element-137">8. A Methodological Appendix that includes the following: </para><list id="element-319" list-type="bulleted"><item>a) Rational for particular methods chosen</item>
+<item>b) Detailed and concrete descriptions of those methods</item>
+<item>c) Individual interviews should be noted respecting privacy and confidentiality</item>
+<item>d) Description of field observation including significant events looked for, significant events discovered, changes made in observation protocol, etc</item>
+<item>e) DLS or day-in-the-life-scenarios along with a rational for choice of perspectives and time frames, information from which they were complied (e.g., interviews, manuals, etc.), and finally, the detailed scenarios themselves.</item></list>
+		
+		
+		
+		
+		
+		
+		
+		<para id="id6019490">9. Group Self-Evaluations</para>
+		<list id="element-642" list-type="bulleted"><item>Repeat Group Values and provide an objective assessment of how well these have been met during the semester.</item>
+	<item>List Group Work Pitfalls and describe measures taken by your group during the semester to prevent or mitigate them.  Assess objectively your success in preventing or mitigating them.</item>
+	<item>Discuss the obstacles to successful group work that arose during the semester and the measures your group designed to overcome them.  Objectively assess these measures.  Would your group recommend these practices as "Best Practices" to other groups?  Are they orignial?  Robust?</item>
+	<item>Evaluate how effectively the team members worked together referring to the "Team Member Evaluation Form" (See form and 10 crieteria just below)</item></list>
+		
+		
+		
+		<para id="id5892650">Check List</para>
+		<list id="element-229" list-type="enumerated"><item>____Group Goals (copy)</item>
+	<item>____Preliminary Topic Report (copy)</item>
+	<item>____Final GCR Presentation (copy in PowerPoint format or online display)</item>
+	<item>____Final GCR written report (10-20 pages) due on December 8, 2006</item>
+	<item>____Group Self-Evaluation including Team Member Rating Sheets</item>
+	<item>____Portfolio including Hughes Solution Evaluation Matrix, Virtue Table, and Right Table, and Presentation Evaluation Prepared by Instructor</item></list>
+		
+		
+		
+		
+		
+		
+		<para id="id5892715">I certify that these materials have been
+prepared by those who have signed below and no one else. I also
+certify that we have not plagiarized any material but have given
+due acknowledgement to all the sources used. All who sign below and
+whose names are included on the title page of this report have
+participated fully in the preparation of this project and are
+equally and fully responsible for its results.</para>
+		<para id="id5892737">Signed:</para>
+		<list id="element-648" list-type="enumerated"><item/>
+	<item/>
+	<item/>
+	<item/>
+	<item/>
+	<item/></list><figure id="element-864"><title>Presentation Evaluation Form</title>
+	<media id="idp10625280" alt=""><download src="Presentation Evaluation Form.doc" mime-type="application/msword"/></media>
+	<caption>This evaluation form will be used by the instructor to give your group preliminary feedback on the presentation and to identify issues that need to be integrated into the final report.</caption>
+</figure><figure id="element-812"><title>Teamd member Rating Sheet</title>
+  <media id="idm201984" alt=""><download src="TEAM MEMBER RATING SHEET.doc" mime-type="application/msword"/></media>
+  <caption>This form needs to be filled out by each team member and turned in confidentially to the instructor.  Be sure to evaluate each team member, including yourself.</caption> </figure>
+		
+		
+	</content>
+</document>

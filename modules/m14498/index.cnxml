@@ -1,0 +1,147 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+	<title>EAC Toolkit - Assessment Tools Module</title>
+	<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>0411bbb3-d597-46fb-8790-be1fd579eaf3</md:uuid>
+</metadata>
+
+<!-- TO EDIT THE INFORMATION ABOVE GO TO THE METADATA SECTION TAB -->
+
+
+<!-- START OF THE CONTENT/BODY OF THIS CNX MODULE -->
+<content>
+
+
+<!-- START OF FIRST SECTION -->
+  <section id="modulecore">
+  <title>REFERENCE OR LINK TO STUDENT MODULE</title>
+
+<!-- A BULLETED LIST -->
+<list id="element-782" list-type="bulleted"><item><label>This module has been developed for a workshop in ethics across the curriculum that will be held May 9, 2007.  It recommmends EAC as an effective and efficient strategy for AACSB ethics compliance.  It also recommends the EAC Toolkit (situated in Connexions) as a ideal place to develop, refine, and disseminate best practices in EAC.</label>
+		</item>
+	<item>Links to rubrics posted in Business Administraiton at Scranton University and a Toolkit Rubric module have been included to provide a broad range of assessment instruments that can aid in charting continuous improvement in EAC.</item>
+	<item>The rubrics and assessment forms developed below come from a variety of sources including a DOLCE workshop (Doing Online Computer Ethics sponsored by the NSF), and an Illinois Institute of Technology EAC workshop led by Michael Davis and sponsored by the NSF.  Finally, some of the rubrics have been modified from rubrics used in practical and professional ethics taught at the University of Puerto Rico - Mayaguez.</item>
+</list>
+<!-- END OF THE MAIN BULLETED LIST -->
+
+
+<!-- END OF FIRST SECTION -->			
+</section>
+
+<!-- START OF SECOND SECTION -->
+<section id="eactkmk">
+<title>INSTRUCTOR RESOURCES(Sharing Best Practices in EAC!) </title>
+
+<para id="element-35"><emphasis>This section contains information related to the above referenced Student Module. The intent and expectation is that the information contained in this section will evolve over time based on the experiences and collaborations of the authors and users of the Student Module and this Instructor Module.  For example, the authors, collaborators or users can provide the following kind of information (mainly directed at or intended for instructors).</emphasis></para>
+
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<section id="modbkgrd">
+<title>Module-Background Information</title>
+
+<para id="objexamples">Sources of this module can be gleaned from the links that accompany it.  Starting with a DOLCE workshop held at the Colorado School of Mines in summer 2000, UPRM ethicists have been collecting assessment tools and modifying them to fit courses in practical and professional ethics as well as more contextualized ethics across the curriculum integration modules for mainstream business, science, and engineering classes.  Many of the tools included in this module have been tested in the classroom.</para>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<section id="learninggoals">
+<title>Learning Objectives</title>
+
+<para id="lrnobj">What are the intended learning objectives or goals for this module?  What other goals or learning objectives are possible?  </para><list id="element-472" list-type="bulleted"><title>Content Objectives described below come from the AACSB Ethics Education Task Force Report</title>
+	<item><emphasis>Ethical Leadership (EL)</emphasis>: "Expanding ...awareness to include multiple stakeholder interests and ...developing and applying...ethical decision-making skills to organizational decisions in ways that are transparent to...followers."  (b) "Executives become moral managers by recognizing and accepting their responsibility for acting as ethical role models."</item>
+	<item><emphasis>Decision-Making (DM)</emphasis>: "Business schools typically teach multiple frameworks for improving students' ethical decision-making skills.  Students are encouraged to consider multiple stakeholders and to assess and evaluate using different lenses and enlarged perspectives."</item>
+	<item><emphasis>Social Responsibility (SR)</emphasis>: "Businesses cannot thrive in environments where societal elements such as education, public health, peace and personal security, fidelity to the rule of law, enforcement of contracts, and physical infrastructures are deficient."</item>
+	<item><emphasis>Corporate Governance (CG)</emphasis>:(a) "Knowing the principles and practices of sound, responsible corporate governance can also be an important deterrent to unethical behavior."  (b) "Understanding the complex interdependencies between corporate governance and other institutions, such as stock exchanges and regulatory bodies, can be an important factor in managing risk and reputation."</item>
+</list><list id="element-371" list-type="bulleted"><title>Below are three different sets of skills objectives: </title>
+<item>Skill objectives used at UPRM in various EAC efforts </item>
+<item>The Hastings Center List </item>
+<item>A list presented by Huff and Frey (referenced below) that combines recent research in moral psychology with skills useful for students learning the practice and profession of computing that includes computer science, computer engineering, and software engineering </item>
+</list>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<list id="element-36" list-type="bulleted"><title>UPRM Ethical Empowerment Skills List </title>
+<item>UPRM Objectives are described in the context of faculty development workshops in the Science and Engineering Ethics article by Cruz and Frey referenced below:</item>
+<item><emphasis>Ethical Awareness</emphasis>: “the ability to perceive ethical issues embedded in complex, concrete situations. It requires the exercise of moral imagination which is developed through discussing cases that arise in the real world and in literature.” </item>
+<item><emphasis>Ethical Evaluation</emphasis>: “ the ability to assess a product or process in terms of different ethical approaches such as utilitarianism, rights theory, deontology, and virtue ethics.” This skill can also be demonstrated by ranking solution alternatives using ethics tests which partially encapsulate ethical theory such as reversibility, harm, and publicity.</item> 
+<item><emphasis>Ethical Integration</emphasis>: “the ability to integrate—not just apply—ethical considerations into an activity (such as a decision, product or process) so that ethics plays an essential, constitutive role in the final results.” </item>
+<item><emphasis>Ethical Prevention</emphasis>: the ability to (a) uncover potential ethical and social problems latent in a socio-technical system and (b) develop effective counter-measures to prevent these latent problems from materializing or to minimize their harmful or negative impact. "Ethical" is an adjective that modifies “prevention”; hence ethical prevention does not mean the "prevention of the ethical" but the "prevention of the unethical", i.e., the harmful, the untoward, the incorrect, and the bad.</item> 
+<item><emphasis>Value Realization</emphasis>: “the ability to recognize and exploit opportunities for using skills and talents to promote community welfare, enhance safety and health, improve the quality of the environment, and (in general) enhance wellbeing.</item>
+</list><list id="element-548" list-type="bulleted"><title>Hastings Center Goals </title>
+<item>Stimulate the moral imagination of students </item>
+<item>Help students recognize moral issues </item>
+<item>Help students analyze key moral concepts and principles</item> 
+<item>Elicit from students a sense of responsibility </item>
+<item>Help students to accept the likelihood of ambiguity and disagreement on moral matters, while at the same time attempting to strive for clarity and agreement insofar as it is reasonably attainable (from Pritchard, Reasonable Children, 15) </item>
+</list><list id="element-91" list-type="bulleted"><title>Goals for ethical education in science and engineering derived from psychological literature (Huff and Frey) </title>
+<item>Mastering a knowledge of basic facts and understanding and applying basic and intermediate ethical concepts. </item>
+<item>Practicing moral imagination (taking the perspective of the other, generating non-obvious solutions to moral problems under situational constraints, and setting up multiple framings of a situation) </item> 
+<item>Learning moral sensitivity </item>
+<item>Encouraging adoption of professional standards into the professional self-concept </item>
+<item>Building ethical community </item>
+</list><section id="pedagogicalstrategies">
+<title> Instructional / Pedagogical Strategies </title>
+
+<para id="assessmentexamples"/>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<section id="assessmentaol">
+<title> Assessment / Assurance of Learning </title>
+
+<figure id="element-538"><title>Muddiest Point Exercise</title>
+	<media id="idp826848" alt=""><download src="MuddyPoint.doc" mime-type="application/msword"/></media>
+	<caption>This file contains a handout in Word format called the "Muddiest Point" Exercise or a "Muddy Point" exercise.  It encourages students to reflect on an activity and identify its strongest and weakest points.</caption>
+</figure><figure id="element-912"><title>EAC Module Assessment Form</title>
+	<media id="idm236544" alt=""><download src="DavisIITForm.doc" mime-type="application/msword"/></media>
+	<caption>This Word file consists of a handout that allows students to assess ethics integration exercises.  It has been modified from a form used by Michael Davis at the Illinois Institute of Technology to assess EAC modules developed during NSF-funded EAC workshops.</caption>
+</figure><figure id="element-445"><title>EAC Matrix for AACSB</title>
+	<media id="idp501680" alt=""><download src="EACMatrix_AACSB.doc" mime-type="application/msword"/></media>
+	<caption>This EAC Matrix helps users to model activities and gaps in EAC programs.  It maps courses onto EAC objectives, and AACSB accreditation criteria.  It helps both to recognize existing, ongoing EAC Integration projects and to identify gaps for which new EAC Integration Projects can be designed.</caption>
+</figure><figure id="element-115"><title>Ethics Bowl Rubric</title>
+	<media id="idp3257152" alt=""><download src="Ethics Bowl Rubric.doc" mime-type="application/msword"/></media>
+	<caption>The Ethics Bowl activity has been modified and adapted for the classroom at UPRM in Practical and Professional Ethics classes.  The modified score sheets used at UPRM have been reworked into rubric form.  They concentrate on intelligibility, integration of ethical considerations, treatment of feasibility issues, and demonstration of moral imagination and creativity.</caption>
+</figure><figure id="element-767"><title>Ethics Test Rubric</title>
+	<media id="idp6709760" alt=""><download src="Ethics Test Rubric.doc" mime-type="application/msword"/></media>
+	<caption>This rubric helps assess success in integrating the ethics tests of reversibility, harm/beneficence, and public identification into a decision-making exercise.  It identifies common pitfalls and set up problems.</caption>
+</figure><figure id="element-798"><title>Ethical Considerations Rubric</title>
+	<media id="idm6259552" alt=""><download src="Ethical Considerations Rubric.doc" mime-type="application/msword"/></media>
+	<caption>This rubric can be found at http://academic.scranton.edu/department/assessment/ksom/.  This uploaded version has minor modifications to fit the UPRM context.</caption>
+</figure><para id="bkgdexamples"/>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<section id="commentary">
+<title> Pedagogical Commentary </title>
+
+<para id="commentaryexamples">Any comments or questions regarding this module?  (For example: suggestions to authors, suggestions to instructors (how-to), queries or comments directed o EAC community, pitfalls or frustrations, novel ideas/approaches/uses, etc.)</para>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+<!-- START OF SUBSECTION WITHIN THE SECOND SECTION -->
+<section id="supplements">
+<title>Appendix (Annotated)</title>
+
+<para id="apxexamples">Additional information or annotations for instructors regarding the Student Module Appendix</para>
+
+</section>
+<!-- END OF SUBSECTION -->
+			
+
+</section>
+<!-- END OF SECOND SECTION AFTER ALL SUBSECTIONS-->
+
+
+</content>
+</document>

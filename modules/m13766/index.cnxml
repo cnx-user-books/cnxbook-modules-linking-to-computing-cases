@@ -1,0 +1,511 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Case Analysis Module: Hughes Aircraft</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>87be1fbd-18e3-447f-864f-698bdd41f44e</md:uuid>
+</metadata>
+<content>
+<para id="id10913205">Computer Ethics</para>
+<para id="id10896741">Case Module Template</para>
+<para id="id10482847">By William J. Frey</para>
+<para id="id11317661">Module Introduction:</para>
+<para id="id11594826">The Hughes case is what Huff and Frey call a thick, historical, evaluative, big news and bad news case.  One particularly noteworthy fact about it is the way in which it combines technical issues (the manufacture and testing of integrated circuits) with ethical issues (when is it morally appropriate to blow the whistle and how does one carry this out).  Sifting through the case details, documents, and conflicting participant perspectives will both challenge you and hone your skills in moral imagination.  Below are frameworks to help you structure the case's ethical and social problems.  You will also be provided with decision points that will force you to enter the case as a participant and practice decision-making in the real world.  While the timeline presented below changes the names of the key participants, the conclusion of the legal proceedings surrounding this case make it possible for you to learn the real identities of participants in class.  This module contains materials to introduce the case.  For a complete analysis, you will need to consult www.computingcases.org.  These materials were all developed through NSF
+projects DUE-9972280 and DUE 9980768.</para>
+<para id="id14729138">The module presents the case abstract and
+timeline. It then refers you to computingcases.org where you can find the case narrative, history, and supporting documents
+that provide background information necessary for analysis. The
+case abstract and timeline introduce the basic outlines
+of the case. The accompanying decision point taken from the case
+provides you with the necessary focus to carry out an in-depth
+analysis from the standpoint of one of the case's participants. Your job is to respond to the decision-point by working through
+the four stages: problem specification, solution generation,
+solution testing, and solution implementation.</para>
+<para id="id11413127">Module Activities:</para>
+<para id="id8912399">1. Instructor introduces the case based on the
+abstract and timeline found at 
+<link url="http://www.computingcases.org/">
+www.computingcases.org</link></para>
+<para id="id14436729">2. Students read case abstract, timeline,
+case decision point, and case analysis exercises.</para>
+<para id="id10997436">3. Students do further research into the case
+by consulting ComputingCases materials which include narratives,
+histories, supporting documents, and ethical analyses.</para>
+<para id="id14478213">4. Students carry out the activities outlined
+in the accompanying case exercises by (a) specifying the problem
+raised in the decision point, (b) generating solutions, (c) testing
+solutions using ethics tests, and (d) developing plans for
+implementing the solution over situational constraints.</para>
+<para id="id11864536">5. Students prepare their case analyses
+working in small groups.</para>
+<para id="id14776442">6. These groups present their completed
+analysis to the class in a case-debriefing session.</para>
+<para id="id11582314">7. The instructor concludes by discussing the
+problem-solving issues and intermediate moral concepts raised by
+the case.</para>
+<para id="id14695193">Hughes Microelectronics: Whistleblowing in
+the Manufacture of Computer Chips for the Military</para>
+<para id="id10791897">Case Abstract:</para>
+<para id="id9897924">When computer chips are embedded in expensive
+weapons systems, the chips need to be tested to make sure they can
+withstand years of exposure to the extreme environmental hazards
+they might face (rapid changes in temperature, severe shock,
+changes in atmospheric pressure, etc.). These chips are sealed in
+metal containers to protect them from the environmental stress. The
+seals and the chips need to be tested to make sure they can
+withstand the stress. Unfortunately, the need to manufacture and
+deliver these chips on time can compete with the desire to test
+them thoroughly.</para>
+<para id="id11422508">In the mid 1980s, Hughes Microelectronics was
+manufacturing what were called hybrid microchips for use in
+guidance systems and other military programs. A series of
+environmental tests were specified by the government contract. But
+pressure to ship chips out on time to customers got in the way of
+complete testing. "Hot" chips, those needed right away for shipment
+were given preferential treatment by some in charge of the testing
+process and shipped without the proper tests being
+performed.</para>
+<para id="id11422520">This case is about what happened when
+employees of Hughes Microelectronics noticed that these tests were
+being skipped. The decisions they made to report this make this one
+of the classic cases in the history of whistleblowing</para>
+<para id="id11422548">Timeline</para>
+<para id="id11422562">1. 1979 Nancy Baker (Baker) begins working
+for American Aircraft company’s</para>
+<para id="id11422589">Microelectronic Circuit Division (American
+MCD) in Newport Beach, CA</para>
+<para id="id11422572">2. 1981 Claire Paul (Paul) begins working for
+American MCD as a</para>
+<para id="id11422577">supervisor for assembly on the hybrid
+production floor and as a</para>
+<para id="id11422784">supervisor in the hybrid engineering
+lab</para>
+<para id="id11422805">3. 1984 Baker becomes supervisor for hybrid
+quality assurance</para>
+<para id="id11422821">4. 1985 Paul asks Baker to look at errors in
+paperwork,</para>
+<para id="id11422834">Baker brings errors to the attention of her
+supervisors and was told to keep quiet,</para>
+<para id="id11422846">beginning of time period when Paul/Baker
+became aware of problems</para>
+<para id="id11422859">in hybrid chip testing and paperwork</para>
+<para id="id11544991">5. 1986 Paul becomes supervisor for seals
+processing in the environmental testing area,</para>
+<para id="id11422873">False Claims Act (31 U.S.C. §§ 3729-3733)
+becomes False Claims Reform Act of 1986</para>
+<para id="id11422901">making it stronger and easier to apply</para>
+<para id="id11422923">6. Oct. 1986 Paul/Baker report problems to
+American management, and,</para>
+<para id="id11422910">after the problems were not fixed, Paul/Baker
+reported the</para>
+<para id="id11422915">allegations of faulty testing to the United
+States Department of Defense</para>
+<para id="id11423004">7. Jan. 9, 1987 Earliest date that American
+may have stopped neglecting environmental</para>
+<para id="id11422978">screening tests</para>
+<para id="id11422952">American Timeline</para>
+<para id="id11423019">I. Criminal Suit</para>
+<para id="id11423054">a. 1998 Baker leaves American feeling that
+her job had been stripped of all real responsibility</para>
+<para id="id11423083">b. Mar. 1989 Paul is laid off from
+American</para>
+<para id="id11423094">1995 Paul and her husband are divorced</para>
+<para id="id11423108">II. Civil Suit: United States of America v.
+American Aircraft Co., and Tim Clark</para>
+<para id="id11423124">a. Dec. 13, 1991 after a lengthy
+investigation, the U.S. Department of Defense</para>
+<para id="id11423150">charges American and Tim A. Clark (Clark)
+with a 51-count</para>
+<para id="id11423044">indictment accusing it of falsifying tests of
+microelectronic circuits (criminal suit)</para>
+<para id="id11423158">b. Jun 15, 1992 American found guilty of
+conspiring to defraud the U.S.</para>
+<para id="id11423164">Government in criminal case, co-defendant
+Clark</para>
+<para id="id11423175">acquitted following 4-week trial, Paul/Baker
+called as</para>
+<para id="id11423201">witnesses in trial, American appeals</para>
+<para id="id11423215">c. Oct. 29, 1992 American fined $3.5 million
+in criminal trial decision</para>
+<para id="id11423250">d. Dec. 2, 1993 Appellate court upholds 1992
+criminal conviction and sentence,</para>
+<para id="id11422884">American appeal fails</para>
+<para id="id11423328">Scenario 1:</para>
+<para id="id11423306">Frank Saia has worked at Hughes Aircraft for
+a long time. Now he is faced with the most difficult decisions of
+his career. He has been having problems in the environmental
+testing phase of his microchip manufacturing plant; the detailed
+nature of these tests has caused Hughes to be consistently late in
+delivering the chips to customers.</para>
+<para id="id11423266">Because of the time pressure to deliver
+chips, Saia has been working to make the production of chips more
+efficient without losing the quality of the product. Chips are
+manufactured and then tested, and this provides two places where
+the process can bottle up. Even though you might have a perfectly
+fine chip on the floor of the plant, it cannot be shipped without
+testing. And, since there are several thousand other chips waiting
+to be tested, it can sit in line for a long time. Saia has devised
+a method that allows testers to put the important chips, the “hot
+parts,” ahead of the others without disrupting the flow and without
+losing the chips in the shuffle. He has also added a “gross leak”
+test that quickly tells if a chip in a sealed container is actually
+sealed or not. Adding this test early in the testing sequence
+allows environmental testing to avoid wasting time by quickly
+eliminating chips that would fail a more fine-grained leak test
+later in the sequence.</para>
+<para id="id11762402">Because environmental testing is still
+falling behind, Saia’s supervisors and Hughes customers are getting
+angry and have begun to apply pressure. Karl Reismueller, the
+director of the Division of Microelectronics at Hughes, has given
+Saia’s telephone number to several customers, whose own production
+lines were shut down awaiting the parts that Saia has had trouble
+delivering. His customers are now calling him directly to say
+“we’re dying out here” for need of parts.</para>
+<para id="id10709416">Frank Saia has discovered that an employee
+under his supervision, Donald LaRue, has been skipping tests on the
+computer chips. Since LaRue began this practice, they have
+certainly been more on time in their shipments. Besides, both LaRue
+and Saia know that many of the “hot” parts are actually for systems
+in the testing phase, rather than for ones that will be put into
+active use. So testing the chips for long-term durability that go
+into these systems seems unnecessary. Still, LaRue was caught by
+Quality Control skipping a test, and now Saia needs to make a
+decision. Upper management has provided no guidance; they simply
+told him to “handle it” and to keep the parts on time.</para>
+<para id="id14800025">He can’t let LaRue continue skipping tests,
+or at least he shouldn’t let this skipping go unsupervised. LaRue
+is a good employee, but he doesn’t have the science background to
+know which tests would do the least damage if they were skipped. He
+could work with LaRue and help him figure out the best tests to
+skip so the least harm is done. But getting directly involved in
+skipping the tests would mean violating company policy and federal
+law.</para>
+<para id="id11844822">Scenario 2:</para>
+<para id="id11452856">Margaret Gooderal works in a supervisory
+position in the environmental testing group at Hughes Aircraft. Her
+supervisor, Donald LaRue, is also the current supervisor for
+environmental testing. The group that LaRue and Gooderal together
+oversee test the chips that Hughes makes in order to determine that
+they would survive under the drastic environmental conditions they
+will likely face.</para>
+<para id="id10072833">Rigorous testing of the chips is the ideal,
+but some chips (the hot chips) get in line ahead of others.
+Gooderal has found out that over the last several months, many of
+these tests are being skipped. The reason: Hughes has fallen behind
+in the production schedule and Hughes upper management and Hughes
+customers have been applying pressure to get chip production and
+testing back on schedule. Moreover, LaRue and others feel that
+skipping certain tests doesn’t matter, since many of these chips
+are being used in systems that are in the testing phase, rather
+than ones that will be put into active use.</para>
+<para id="id9325095">A few months after Margaret Gooderal started
+her new position, she was presented with a difficult problem. One
+of the “girls” (the women and men in Environmental Testing at
+Hughes), Lisa Lightner, came to her desk crying. She was in tears
+and trembling because Donald LaRue had forcefully insisted that she
+pass a chip that she was sure had failed the test she was
+running.</para>
+<para id="id10885934">Lightner ran the hermeticity test on the
+chips. The chips are enclosed in a metal container, and one of the
+questions is whether the seal to that container leaks. From her
+test, she is sure that the chip is a “leaker”—the seal is not
+airtight so that water and corrosion will seep in over time and
+damage the chip. She has come to Gooderal for advice. Should she do
+what LaRue wants and pass a chip she knows is a leaker?</para>
+<para id="id9794728">Case Analysis Exercises:</para>
+<para id="id11252052">1. Identify key components of the STS</para>
+<table id="id10706739" summary="">
+<tgroup cols="8">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<tbody>
+<row>
+<entry>Part/Level of Analysis</entry>
+<entry>Hardware</entry>
+<entry>Software</entry>
+<entry>Physical Surroundings</entry>
+<entry>People, Groups, &amp; Roles</entry>
+<entry>Procedures</entry>
+<entry>Laws &amp; Regulations</entry>
+<entry>Data &amp; Data Structures</entry>
+</row>
+<row>
+<entry/>
+<entrytbl namest="c2" nameend="c8" cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<tbody>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</entrytbl>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id10420124">2. Specify the problem:</para>
+<para id="id10458550">2a. Is the problem a disagreement on facts?
+What are the facts? What are cost and time constraints on
+uncovering and communicating these facts?</para>
+<para id="id7458067">2b. Is the problem a disagreement on a
+critical concept? What is the concept? Can agreement be reached by
+consulting legal or regulatory information on the concept? (For
+example, if the concept in question is safety, can disputants
+consult engineering codes, legal precedents, or ethical literature
+that helps provide consensus? Can disputants agree on positive and
+negative paradigm cases so the concept disagreement can be resolved
+through line-drawing methods?</para>
+<para id="id10648369">2c. Use the table to identify and locate
+value conflicts within the STS. Can the problem be specified as a
+mismatch between a technology and the existing STS, a mismatch
+within the STS exacerbated by the introduction of the technology,
+or by overlooked results?</para>
+<table id="id11149926" summary="">
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>STS/Value</entry>
+<entry>Safety (freedom from harm)</entry>
+<entry>Justice (Equity &amp; Access)</entry>
+<entry>Privacy</entry>
+<entry>Property</entry>
+<entry>Free Speech</entry>
+</row>
+<row>
+<entry>Hardware/software</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Physical Surroundings</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>People, Groups, &amp; Roles</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Procedures</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Laws</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Data &amp; Data Structures</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id11683460">3. Develop a general solution strategy and
+then brainstorm specific solutions:</para>
+<table id="id11438101" summary="">
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>Problem / Solution Strategy</entry>
+<entry namest="c2" nameend="c3">Disagreement</entry>
+<entry namest="c4" nameend="c5">Value Conflict</entry>
+<entry>Situational Constraints</entry>
+</row>
+<row>
+<entry/>
+<entry>Factual</entry>
+<entry>Conceptual</entry>
+<entry>Integrate?</entry>
+<entry>Tradeoff?</entry>
+<entry>Resource?Technical?Interest</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id11102413">3a. Is problem one of integrating values,
+resolving disagreements, or responding to situational
+constraints?</para>
+<para id="id10898794">3b. If the conflict comes from a value
+mismatch, then can it be solved by modifying one or more of the
+components of the STS? Which one?</para>
+<para id="id10562418">4. Test solutions:</para>
+<table id="id10047503" summary="">
+<tgroup cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<tbody>
+<row>
+<entry>Alternative / Test</entry>
+<entry>Reversibility</entry>
+<entry>Value: Justice</entry>
+<entry>Value: Responsibility</entry>
+<entry>Value: Respect</entry>
+<entry>Harm</entry>
+<entry>Code</entry>
+</row>
+<row>
+<entry>A #1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A #2</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A #3</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id11293201">5. Implement solution over feasibility
+constraints</para>
+<table id="id11454098" summary="">
+<tgroup cols="8">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<tbody>
+<row>
+<entry>Alternative Constraint</entry>
+<entry namest="c2" nameend="c3">Resource</entry>
+<entry namest="c4" nameend="c6">Interest</entry>
+<entry namest="c7" nameend="c8">Technical</entry>
+</row>
+<row>
+<entry/>
+<entry>Time</entry>
+<entry>Cost</entry>
+<entry>Individual</entry>
+<entry>Organization</entry>
+<entry>Legal/ Social</entry>
+<entry>Available Techno-logy</entry>
+<entry>Manufacturability</entry>
+</row>
+<row>
+<entry>#1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>#2</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>#3</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</content>
+</document>

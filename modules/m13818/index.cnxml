@@ -1,0 +1,560 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>Case Analysis and Presentation: Machado</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>4c248d39-a1a4-4ead-965f-6b1ed9c659b6</md:uuid>
+</metadata>
+<content>
+<para id="id11197425">Computer Ethics</para>
+<para id="id11197430">Case Module Template: Machado Case</para>
+<para id="id11197437">By William J. Frey</para>
+<para id="id11197445">Module Abstract:</para>
+<para id="id11197454">This module, designed for the EAC Toolkit
+(NSF SES 0551779), will test the Toolkit and Connexion’s ability to
+network different online and offline sources for ethics across the
+curriculum. It consists of four components designed to provide
+tools for an in-depth analysis of the cases found at 
+<link url="http://www.computingcases.org/">
+www.computingcases.org</link>; it also makes substantial references
+to the draft manuscript of a textbook in computer ethics entitled
+Good Computing: A Virtue Approach to Computer Ethics under contract
+with Jones and Bartlett Publishing Company. (This book will consist
+of the cases displayed at Computing Cases—Therac-25, Machado, and
+Hughes Aircraft—and 7 additional cases all developed through NSF
+projects DUE-9972280 and DUE 9980768.)</para>
+<para id="id11197503">Module Introduction:</para>
+<para id="id11197508">This module as displayed in Connexions
+presents the case abstract and timeline both taken from Computing
+Cases. It then refers to the website where the following can be
+found by browsing:</para>
+<list list-type="bulleted" id="id11197518">
+<item>case narrative,</item>
+<item>case history,</item>
+<item>a teaching introduction which also provides a useful
+overview,</item>
+<item>an ethical analysis that can be accessed by clicking on the
+appropriate concept in the table displayed (clicking on safety will
+open a short document that discusses the safety implications of the
+case)</item>
+<item>a Socio-Technical Analysis which spells out the different
+components of the cases socio-technical system such as hardware,
+software, physical surroundings, people/groups/roles, procedures,
+laws, and data/data structures.</item>
+<item>supporting documents such as three RFCs (Request for
+Comments) on the Unix finger command, a profile of students at UCI,
+and an interview with Allen Schiano from the University of
+California at Irvine’s Office of Academic Computing.</item>
+</list>
+<para id="id11197571">These materials all posted at 
+<link url="http://www.computingcases.org/">
+www.computingcases.org</link>provide the background information
+necessary for a detailed and exhaustive case analysis. (A
+suggestion: since you will be working in groups, divide these
+readings among your group members and take advantage of class time
+to report to one another on the contents of the links you have
+individually explored. Be sure to triangulate by assigning more
+than one member to each link. This will help to identify and solve
+problems in interpretation.)</para>
+<para id="id11197604">The case abstract and timeline in this module
+outline the case. The following decision point taken from the
+Machado case will provide the focus for an in-depth case analysis.
+You will respond to the decision-point by working through a four
+stage decision making procedure inspired by the standard Software
+Development cycle:</para>
+<list list-type="bulleted" id="id11202423">
+<item>problem specification,</item>
+<item>solution generation,</item>
+<item>solution testing, and…</item>
+<item>solution implementation.</item>
+</list>
+<para id="id11202454">Module Activities:</para>
+<para id="id11202463">1. Instructor introduces the case based on
+the abstract and timeline found at 
+<link url="http://www.computingcases.org/">
+www.computingcases.org</link></para>
+<para id="id11202479">2. Students read case abstract, timeline,
+case decision point, and case analysis exercises.</para>
+<para id="id11202488">3. Students do further research into the case
+by consulting ComputingCases materials which include narratives,
+histories, supporting documents, and ethical analyses.</para>
+<para id="id11202501">4. Students carry out the activities outlined
+in the accompanying case exercises by (a) specifying the problem
+raised in the decision point, (b) generating solutions, (c) testing
+solutions using ethics tests, and (d) developing plans for
+implementing the solution over situational constraints.</para>
+<para id="id11202511">5. Students prepare their case analyses
+working in small groups.</para>
+<para id="id11202517">6. These groups present their completed
+analysis to the class in a case-debriefing session.</para>
+<para id="id11202523">7. The instructor concludes by discussing the
+problem-solving issues and intermediate moral concepts raised by
+the case.</para>
+<para id="id11202533">Machado Abstract:</para>
+<para id="id11202537">In September of 1996, 19 year-old Richard
+Machado sent email to 59 Asian students at his public college,
+threatening them with phrases like “I will personally make it my
+life’s career to hunt you down and kill you” and signed by “Asian
+Hater.” Several of these individuals reported this incident to the
+Office of Academic computing (OAC). One of the recipients was a
+student employee of the OAC. The administrators of the OAC were
+faced with a decision about how to respond to harassing and
+threatening email sent over their system to students of their
+University, using their facilities.</para>
+<para id="id11202566">Machado Timeline</para>
+<table id="id11202574" summary="">
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<tbody>
+<row>
+<entry>11/16/95</entry>
+<entry>Machado sends email threat to New University paper (UCI) via
+his roommate’s computer.The email is traced to the roommate’s
+computer.Roommate later said Machado had access to the
+computerMachado identified as sender.</entry>
+</row>
+<row>
+<entry>11/21/95</entry>
+<entry>Warrant for arrest is filed against Machado, issued by
+Irvine Police Department—the warrant is a “no bail felony
+warrant.”Machado consents to a property search.Case given up
+shortly after—Machado’s roommate took the blame so he “wouldn’t be
+bothered anymore.”</entry>
+</row>
+<row>
+<entry>(Between 1/1/96 and 9/20/96)</entry>
+<entry>Machado’s older brother murdered in armed robbery prior to
+following incident;Machado is doing poorly in school, getting
+pressure from family to uphold high expectations.</entry>
+</row>
+<row>
+<entry>9/20/96(Friday, 10:54 am)</entry>
+<entry>Machado sends hate Asians/threat email to about 59 UCI
+studentsMachado sent message a second time shortly after, when he
+did not receive replies to the first email.Incident brought to the
+attention of Assoc. Director of The Academic Computing Center, by
+her employees.Machado identified in computer lab and was asked to
+leave by Core Services manager.</entry>
+</row>
+<row>
+<entry>9/21/96</entry>
+<entry>Director of OAC reads Machado’s email and decides that it is
+a police matter.</entry>
+</row>
+<row>
+<entry>9/24/96(Monday)</entry>
+<entry>The incident is reported to University Police DepartmentAn
+officer is assigned to the case.</entry>
+</row>
+<row>
+<entry>9/26/96</entry>
+<entry>Retrieval of surveillance video confirmed Machado as the
+sender.Irving City Police notified and involved in case.</entry>
+</row>
+<row>
+<entry>9/27/96</entry>
+<entry>Registrar’s office helps police locate Machado’s address and
+phone number.</entry>
+</row>
+<row>
+<entry>9/28/96</entry>
+<entry>An officer phones Machado’s residence and leaves
+messageMachado calls back and agrees to meet with an officer that
+afternoon at 5pm.Two charges filed after meeting: Machado (1)
+knowingly and without permission uses computer services and (2)
+makes telephone calls with intent to annoy.</entry>
+</row>
+<row>
+<entry>11/14/96</entry>
+<entry>A stolen vehicle report is filed for Machado’s second
+roommate’s car.Machado had told one roommate he was borrowing his
+other roommate’s car.Machado did not have permission to borrow
+car.</entry>
+</row>
+<row>
+<entry>11/18/96</entry>
+<entry>FBI attempts investigation.An agent goes to Machado’s
+residence; Machado is not there and hasn’t been seen there since
+11/13.Machado allegedly left with Young’s keys on 11/14.Other
+suspicions: $80 missing from roommate’s coin jar; $154 visa charges
+to roommate’s card, $54 of which were unauthorized; calls on 11/10,
+11, and 12.</entry>
+</row>
+<row>
+<entry>11/21/96</entry>
+<entry>FBI agent phones Machado’s roommate for confirmation of
+stolen car/info on Machado’s disappearance.</entry>
+</row>
+<row>
+<entry>11/22/96</entry>
+<entry>Roommate interviewed.</entry>
+</row>
+<row>
+<entry>11/23/96</entry>
+<entry>Tammy Machado (Machado’s sister) interviewed and said
+Machado had disappeared on the day his brother called him to
+inquire about Machado’s name appearing in newspaper regarding Asian
+hate mails.Machado denied the reports in the paper to his brother;
+claimed it to be someone else.Tammy is informed that court date is
+set for 11/25 and if Richard doesn’t show, they would issue a
+warrant for his arrest.</entry>
+</row>
+<row>
+<entry>2/6/97</entry>
+<entry>Machado is arrested when attempting to enter US from
+Mexico—caught by US Immigration Inspector.Machado is reported as
+looking homeless, having no possessions, looking for construction
+work in Mexico.</entry>
+</row>
+<row>
+<entry>9/16/97</entry>
+<entry>Machado is charged with 10 counts of interfering with a
+federally protected activity—in this case, students attending a
+university.Machado is told he will face up to 10 years if
+convicted.</entry>
+</row>
+<row>
+<entry>11/12/97</entry>
+<entry>Trial takes place and on this date a recess is granted when
+new information is uncovered/presented.Questionnaires were revealed
+in which 9 of the students who got the messages said they were not
+overtly bothered by Machado’s email.</entry>
+</row>
+<row>
+<entry>11/18/97</entry>
+<entry>Jury deadlocked 9 to 3 in favor of acquittal.Case said to
+have national importance by federal prosecutors, so a second trial
+was set for 1/27/98.</entry>
+</row>
+<row>
+<entry>2/13/98</entry>
+<entry>Richard Machado is found guilty on 2 counts of civil rights
+violations.Took only 3 weeks of trial to reach verdict.Following
+conviction, Machado is released on a $10,000 bond from custody but
+is turned over to Irvine police on impending auto theft
+charges.Sentencing is postponed until 4/10/98.Possible maximum time
+Machado could serve would be 1 yr.Machado has already spent 1 yr.
+in jail awaiting trials, tec.Machado is recommended for anger &amp;
+racial tolerance counseling, not allowed on UCI campus, and
+prohibited from having any contact with victims.</entry>
+</row>
+<row>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id11203270">Scenario #1:</para>
+<para id="id11203275">You are a systems administrator at the Office
+of Academic Computing at the University of California at Irvine and
+have been asked to modify the Unix system to prevent the
+reoccurrence of the Machado incident</para>
+<para id="id11203283"/>
+<para id="id11203287">Scenario #2:</para>
+<para id="id11203291">You are a systems administrator at the Office
+of Academic Computing at the University of California at Irvine and
+have been asked to develop an orientation program for students who
+will use university computing laboratories and facilities. Special
+emphasis is put on preventing a reoccurrence of the Machado
+incident.</para>
+<para id="id11203311">1. Identify key components of the STS</para>
+<table id="id11203318" summary="">
+<tgroup cols="8">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<tbody>
+<row>
+<entry>Part/Level of Analysis</entry>
+<entry>Hardware</entry>
+<entry>Software</entry>
+<entry>Physical Surroundings</entry>
+<entry>People, Groups, &amp; Roles</entry>
+<entry>Procedures</entry>
+<entry>Laws &amp; Regulations</entry>
+<entry>Data &amp; Data Structures</entry>
+</row>
+<row>
+<entry/>
+<entrytbl namest="c2" nameend="c8" cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<tbody>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</entrytbl>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id11210414">2. Specify the problem:</para>
+<para id="id11210421">2a. Is the problem a disagreement on facts?
+What are the facts? What are cost and time constraints on
+uncovering and communicating these facts?</para>
+<para id="id11210432">2b. Is the problem a disagreement on a
+critical concept? What is the concept? Can agreement be reached by
+consulting legal or regulatory information on the concept? (For
+example, if the concept in question is safety, can disputants
+consult engineering codes, legal precedents, or ethical literature
+that helps provide consensus? Can disputants agree on positive and
+negative paradigm cases so the concept disagreement can be resolved
+through line-drawing methods?</para>
+<para id="id11210453">2c. Use the table to identify and locate
+value conflicts within the STS. Can the problem be specified as a
+mismatch between a technology and the existing STS, a mismatch
+within the STS exacerbated by the introduction of the technology,
+or by overlooked results?</para>
+<table id="id11210468" summary="">
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>STS/Value</entry>
+<entry>Safety (freedom from harm)</entry>
+<entry>Justice (Equity &amp; Access)</entry>
+<entry>Privacy</entry>
+<entry>Property</entry>
+<entry>Free Speech</entry>
+</row>
+<row>
+<entry>Hardware/software</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Physical Surroundings</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>People, Groups, &amp; Roles</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Procedures</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Laws</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Data &amp; Data Structures</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id11210890">3. Develop a general solution strategy and
+then brainstorm specific solutions:</para>
+<table id="id11210899" summary="">
+<tgroup cols="6">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<tbody>
+<row>
+<entry>Problem / Solution Strategy</entry>
+<entry namest="c2" nameend="c3">Disagreement</entry>
+<entry namest="c4" nameend="c5">Value Conflict</entry>
+<entry>Situational Constraints</entry>
+</row>
+<row>
+<entry/>
+<entry>Factual</entry>
+<entry>Conceptual</entry>
+<entry>Integrate?</entry>
+<entry>Tradeoff?</entry>
+<entry>Resource?Technical?Interest</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id11211041">3a. Is problem one of integrating values,
+resolving disagreements, or responding to situational
+constraints?</para>
+<para id="id11211047">3b. If the conflict comes from a value
+mismatch, then can it be solved by modifying one or more of the
+components of the STS? Which one?</para>
+<para id="id11211060">4. Test solutions:</para>
+<table id="id11211068" summary="">
+<tgroup cols="7">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<tbody>
+<row>
+<entry>Alternative / Test</entry>
+<entry>Reversibility</entry>
+<entry>Value: Justice</entry>
+<entry>Value: Responsibility</entry>
+<entry>Value: Respect</entry>
+<entry>Harm</entry>
+<entry>Code</entry>
+</row>
+<row>
+<entry>A #1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A #2</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>A #3</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="id11211361">5. Implement solution over feasibility
+constraints</para>
+<table id="id11211369" summary="">
+<tgroup cols="8">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<colspec colnum="6" colname="c6"/>
+<colspec colnum="7" colname="c7"/>
+<colspec colnum="8" colname="c8"/>
+<tbody>
+<row>
+<entry>Alternative Constraint</entry>
+<entry namest="c2" nameend="c3">Resource</entry>
+<entry namest="c4" nameend="c6">Interest</entry>
+<entry namest="c7" nameend="c8">Technical</entry>
+</row>
+<row>
+<entry/>
+<entry>Time</entry>
+<entry>Cost</entry>
+<entry>Individual</entry>
+<entry>Organization</entry>
+<entry>Legal/ Social</entry>
+<entry>Available Techno-logy</entry>
+<entry>Manufacturability</entry>
+</row>
+<row>
+<entry>#1</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>#2</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>#3</entry>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table><figure id="element-998"><title>Machado Summary</title>
+  <media id="idm13341120" alt=""><download src="Machado_F06.ppt" mime-type="application/vnd.ms-powerpoint"/></media>
+  <caption>PowerPoint File.</caption>
+</figure>
+</content>
+</document>
